@@ -102,7 +102,15 @@ h1{
   background: #27ae60;
   color: white;
   border: 0;
-  padding: 4px 10px;
+  padding: 4px 15px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+#edit-submit{
+  background: #27ae60;
+  color: white;
+  border: 0;
+  padding: 4px 15px;
   border-radius: 3px;
   cursor: pointer;
 }
